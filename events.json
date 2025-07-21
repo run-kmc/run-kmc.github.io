@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2025-07-23",
+    "description": "Weekly run in the park",
+    "pizza": false
+  },
+  {
+    "date": "2025-07-30",
+    "description": "Long run + pizza party",
+    "pizza": true
+  }
+]
